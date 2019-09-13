@@ -1,6 +1,5 @@
 /*
 CONTROLLER PROGRAM
-AUTHOR: KARL JONES AND DICKY GULTOM
 CREATED: SEMSESTER 1 2019
 FUNCTION: Used to program the controller for the Mechatronics Project
 */
